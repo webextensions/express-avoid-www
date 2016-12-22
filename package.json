@@ -1,0 +1,28 @@
+{
+  "name": "express-avoid-www",
+  "version": "0.0.0",
+  "description": "Express middleware for redirecting \"www\" requests to non-www url path",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webextensions/express-avoid-www.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "redirect",
+    "www",
+    "request",
+    "url",
+    "non-www"
+  ],
+  "author": "Priyank Parashar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webextensions/express-avoid-www/issues"
+  },
+  "homepage": "https://github.com/webextensions/express-avoid-www#readme"
+}
