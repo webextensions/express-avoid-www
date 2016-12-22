@@ -1,6 +1,6 @@
 {
   "name": "express-avoid-www",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express middleware for redirecting \"www\" requests to non-www url path",
   "main": "index.js",
   "scripts": {
